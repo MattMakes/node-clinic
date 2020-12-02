@@ -13,6 +13,7 @@ Demo and detailed documentation: https://clinicjs.org/
 ```
 npm install -g clinic
 ```
+
 <br />
 
 ![Screenshots](tools.gif)
@@ -94,11 +95,13 @@ For more information use the `--help` option:
 clinic doctor --help
 clinic bubbleprof --help
 clinic flame --help
+clinic heapprofiler --help
 ```
 
 - The `doctor` functionality is provided by [Clinic.js Doctor](https://github.com/nearform/node-clinic-doctor).
 - The `bubbleprof` functionality is provided by [Clinic.js Bubbleprof](https://github.com/nearform/node-clinic-bubbleprof).
 - The `flame` functionality is provided by [Clinic.js Flame](https://github.com/nearform/node-clinic-flame).
+- The `heapprofiler` functionality is provided by [Clinic.js Heap Profiler](https://github.com/nearform/node-clinic-heap-profiler).
 
 ## Flags
 
@@ -119,6 +122,7 @@ Each of the tools has a programmable interface which you can read about in their
 - [Clinic.js Doctor](https://github.com/nearform/node-clinic-doctor)
 - [Clinic.js Bubbleprof](https://github.com/nearform/node-clinic-bubbleprof)
 - [Clinic.js Flame](https://github.com/nearform/node-clinic-flame)
+- [Clinic.js Heap Profiler](https://github.com/nearform/node-clinic-heap-profiler)
 
 ## License
 
@@ -133,5 +137,5 @@ Each of the tools has a programmable interface which you can read about in their
 [lint-standard-url]: https://github.com/feross/standard
 [azure-status]: https://dev.azure.com/node-clinic/node-clinic/_apis/build/status/nearform.node-clinic
 [azure-url]: https://dev.azure.com/node-clinic/node-clinic/_build/latest?definitionId=1?branchName=master
-[NearForm]: https://www.nearform.com
+[nearform]: https://www.nearform.com
 [subarg]: https://npmjs.com/package/subarg

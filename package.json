@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@nearform/bubbleprof": "^6.0.0",
+    "@nearform/clinic-heap-profiler": "clinicjs/node-clinic-heap-profiler#heap-profiler",
     "@nearform/doctor": "^7.0.0",
     "@nearform/flame": "^8.0.0",
     "any-shell-escape": "^0.1.1",
